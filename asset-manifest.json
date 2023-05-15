@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/movie_lab_react/static/css/main.31d6cfe0.css",
-    "main.js": "/movie_lab_react/static/js/main.7d0afb12.js",
+    "main.js": "/movie_lab_react/static/js/main.7fbcaa8d.js",
     "static/js/787.6cd6d387.chunk.js": "/movie_lab_react/static/js/787.6cd6d387.chunk.js",
     "index.html": "/movie_lab_react/index.html",
-    "main.7d0afb12.js.map": "/movie_lab_react/static/js/main.7d0afb12.js.map",
+    "main.7fbcaa8d.js.map": "/movie_lab_react/static/js/main.7fbcaa8d.js.map",
     "787.6cd6d387.chunk.js.map": "/movie_lab_react/static/js/787.6cd6d387.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.7d0afb12.js"
+    "static/js/main.7fbcaa8d.js"
   ]
 }
